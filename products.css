@@ -1,0 +1,26 @@
+.products {
+    margin-top: 20px;
+}
+
+.products .row {
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.products img {
+    width: 80px;
+    border-radius: 9px;
+    margin-right: 10px;
+}
+
+.products .btn {
+    margin-left: 0;
+    width: 300px;
+    background: #fffac5;
+    color: #8b4e20;
+    border: 1px solid #333;
+    height: 50px;
+}
